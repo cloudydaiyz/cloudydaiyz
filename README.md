@@ -1,3 +1,5 @@
+![bikini_bottom](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/2b1881be-46d4-450c-a108-282b995060cf)
+
 ## Hello! 👋
 
 I'm a rising junior at the University of Texas at Austin (UT '25) pursuing a B.S. in Computer Science. I aim to eventually become a full stack developer.
