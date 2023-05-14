@@ -1,4 +1,5 @@
-![bikini_bottom](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/2b1881be-46d4-450c-a108-282b995060cf)
+![bikini_bottom_background](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/1adb46ed-f32d-4f3d-9e22-f6f485d8fbba)
+
 
 ## Hello! 👋
 
