@@ -16,6 +16,6 @@ I'm a rising junior at the University of Texas at Austin (UT '25) pursuing a B.S
 - **Other:** Node.js
 
 ## Technical Workshops
-Take a look at some of the technical workshops I created (and hosted or will host):
+Take a look at some of the technical workshops I created and hosted (or will host):
 - [YouTube to Spotify Automation](https://github.com/UT-ABCS/youtube-to-spotify-py): A Python program that converts videos from a public YouTube playlist to a Spotify playlist
 - [Hot Potato](https://github.com/UT-ABCS/hot-potato-ws): Teaching the basics of Git and GitHub through a virtual game of Hot Potato.
