@@ -11,8 +11,8 @@ I'm a rising junior at the University of Texas at Austin (UT '25) pursuing a B.S
 
 ## ⌨️ Technical Skills 
 - **Languages:** Java, JavaScript, Python, MATLAB, C, C++, HTML, CSS
-- **Frameworks:** Express.js, Flask
-- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio 
+- **Frameworks:** Gradle, Express.js, Flask
+- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform 
 - **Other:** Node.js
 
 ## 🖥 Technical Workshops  
