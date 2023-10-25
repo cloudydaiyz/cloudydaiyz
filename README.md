@@ -1,5 +1,4 @@
-![bikini_bottom_background](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/1adb46ed-f32d-4f3d-9e22-f6f485d8fbba)
-
+![image](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/10a1fa34-3802-41f8-9dc2-41f7e4fadf8b)
 
 ## 👋 Hello! 
 
@@ -9,7 +8,7 @@ I'm a rising junior at the University of Texas at Austin (UT '25) pursuing a B.S
 - 🌱 I’m currently learning about the backend.
 - 📫 How to reach me: kduncan@utexas.edu 
 
-## ⌨️ Technical Skills 
+## ⌨ Technical Skills 
 - **Languages:** Java, JavaScript, Python, MATLAB, C, C++, HTML, CSS
 - **Frameworks:** Gradle, Express.js, Flask
 - **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform 
