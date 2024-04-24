@@ -12,9 +12,9 @@ I'm a junior at the University of Texas at Austin (UT '25) pursuing a B.S. in Co
 
 ## ⌨ Technical Skills 
 - **Languages:** Java, JavaScript, Python, MATLAB, C, C++, HTML, CSS
-- **Frameworks:** Gradle, Express.js, Flask
+- **Frameworks:** Express.js, Flask
 - **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform 
-- **Other:** Node.js
+- **Other:** Node.js, Gradle
 
 ## 🖥 Technical Workshops  
 Take a look at some of the technical workshops I created and hosted (or will host) for my organization, the [Association of Black Computer Scientists](https://github.com/UT-ABCS):
