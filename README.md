@@ -11,10 +11,10 @@ I'm a junior at the University of Texas at Austin (UT '25) pursuing a B.S. in Co
 - 📫 How to reach me: kyland03.biz@gmail.com 
 
 ## ⌨ Technical Skills 
-- **Languages:** Java, JavaScript, Python, MATLAB, C, C++, HTML, CSS
+- **Languages:** Java, JavaScript, TypeScript, Python, C#, MATLAB, HTML, CSS, C, C++
 - **Frameworks:** Express.js, Flask
-- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform 
-- **Other:** Node.js, Gradle
+- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio 
+- **Other:** Node.js, Gradle, Terraform
 
 ## 🖥 Technical Workshops  
 Take a look at some of the technical workshops I created and hosted (or will host) for my organization, the [Association of Black Computer Scientists](https://github.com/UT-ABCS):
