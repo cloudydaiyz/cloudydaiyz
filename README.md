@@ -7,14 +7,13 @@
 I'm a junior at the University of Texas at Austin (UT '25) pursuing a B.S. in Computer Science. I aim to eventually become a full stack developer.
 
 - 🔭 I’m currently working on a membership automation tool for my organizations. Check it out [here](https://github.com/cloudydaiyz/membership-logger).
-- 🌱 I’m currently learning about the backend.
+- 🌱 I’m currently learning about the Cloud.
 - 📫 How to reach me: kyland03.biz@gmail.com 
 
 ## ⌨ Technical Skills 
-- **Languages:** Java, JavaScript, TypeScript, Python, C#, MATLAB, HTML, CSS, C, C++
+- **Languages:** Java, JavaScript, TypeScript, Python, C#, MATLAB, HTML, CSS, C, C++, Node.js
 - **Frameworks:** Express.js, Flask
-- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio 
-- **Other:** Node.js, Gradle, Terraform
+- **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform, Splunk, PowerBI, AWS, GCP, Gradle 
 
 ## 🖥 Technical Workshops  
 Take a look at some of the technical workshops I created and hosted (or will host) for my organization, the [Association of Black Computer Scientists](https://github.com/UT-ABCS):
