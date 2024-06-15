@@ -16,6 +16,6 @@ I'm a junior at the University of Texas at Austin (UT '25) pursuing a B.S. in Co
 - **Software:** Visual Studio Code, IntelliJ, Postman, MATLAB, Android Studio, Terraform, Splunk, PowerBI, AWS, GCP, Gradle 
 
 ## 🖥 Technical Workshops  
-Take a look at some of the technical workshops I created and hosted (or will host) for my organization, the [Association of Black Computer Scientists](https://github.com/UT-ABCS):
+Take a look at some of the technical workshops I created and hosted at the University of Texas at Austin:
 - [YouTube to Spotify Automation](https://github.com/UT-ABCS/youtube-to-spotify-py): A Python program that converts videos from a public YouTube playlist to a Spotify playlist
 - [Hot Potato](https://github.com/UT-ABCS/hot-potato-ws): Teaching the basics of Git and GitHub through a virtual game of Hot Potato.
