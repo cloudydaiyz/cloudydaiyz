@@ -16,7 +16,7 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 - **Software:** AWS, Terraform, Postman, Gradle, GCP, Splunk, PowerBI
 - **IDEs:** Visual Studio Code, IntelliJ
 
-## Certifications
+## ⭐️ Certifications
 - Postman Student Expert
 - AWS Cloud Practitioner
 
