@@ -16,6 +16,6 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 - **Software:** AWS, Terraform, Postman, Gradle, GCP, Splunk, PowerBI
 - **IDEs:** Visual Studio Code, IntelliJ
 
-## Look at 👀
+## 👀 Look at 
 - [ My Technical Workshops ](/WORKSHOPS.md)
 - [ My Frontend Mentor Page ](https://www.frontendmentor.io/profile/cloudydaiyz)
