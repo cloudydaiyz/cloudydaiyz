@@ -2,7 +2,7 @@
 
 ## 👋 Hello! 
 
-![](https://komarev.com/ghpvc/?username=cloudydaiyz)
+![Profile view count](https://komarev.com/ghpvc/?username=cloudydaiyz)
 
 I'm a previous student at the University of Texas at Austin pursuing a B.S. in Computer Science. I aim to eventually become a full stack developer.
 
@@ -16,9 +16,8 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 - **Software:** AWS, Terraform, Postman, Gradle, GCP, Splunk, PowerBI
 - **IDEs:** Visual Studio Code, IntelliJ
 
-## ⭐️ Certifications
-- Postman Student Expert
-- AWS Cloud Practitioner
+## ⭐️ Other Profiles
+- Frontend Mentor: https://www.frontendmentor.io/profile/cloudydaiyz 
 
 ## 🖥 Technical Workshops  
 Take a look at some of the technical workshops I created and hosted at the University of Texas at Austin:
