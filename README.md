@@ -2,8 +2,6 @@
 
 ## 👋 Hello! 
 
-![Profile view count](https://komarev.com/ghpvc/?username=cloudydaiyz)
-
 I'm a previous student at the University of Texas at Austin pursuing a B.S. in Computer Science. I aim to eventually become a full stack developer.
 
 - 🔭 I’m currently working on a membership automation tool for student organizations. Check it out [here](https://github.com/cloudydaiyz/membership-logger).
