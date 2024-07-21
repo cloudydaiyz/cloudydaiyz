@@ -11,7 +11,7 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 ## ⌨ Technical Skills 
 - **Primary Languages:** Java, JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks:** Express.js, Flask
-- **Software:** AWS, Terraform, Postman, Gradle, GCP, Splunk, PowerBI
+- **Software:** AWS, Terraform, Postman, Gradle
 - **IDEs:** Visual Studio Code, IntelliJ
 
 ## 👀 Look at 
