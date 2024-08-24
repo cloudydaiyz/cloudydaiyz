@@ -4,12 +4,12 @@
 
 I'm a previous student at the University of Texas at Austin pursuing a B.S. in Computer Science, specializing in full stack development.
 
-### Tech Stack
+### Tech Stack: 📚
 - **Primary Languages / Libraries:** Java, JavaScript, TypeScript, Python, HTML, CSS, React.js
 - **Software:** Git, AWS, Terraform, Postman, Gradle, MongoDB
 - **Platforms:** GitHub, GitLab
 - **IDEs:** Visual Studio Code, IntelliJ
 
-### Look at... 👀
+### Look at: 👀
 - [ My Technical Workshops ](/WORKSHOPS.md)
 - [ My Frontend Mentor Page ](https://www.frontendmentor.io/profile/cloudydaiyz)
