@@ -6,7 +6,8 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 
 ### Tech Stack
 - **Primary Languages / Libraries:** Java, JavaScript, TypeScript, Python, HTML, CSS, React.js
-- **Software:** AWS, Terraform, Postman, Gradle, MongoDB
+- **Software:** Git, AWS, Terraform, Postman, Gradle, MongoDB
+- **Platforms:** GitHub, GitLab
 - **IDEs:** Visual Studio Code, IntelliJ
 
 ### Look at... 👀
