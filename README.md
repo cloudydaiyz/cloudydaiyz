@@ -5,7 +5,7 @@
 I'm a previous student at the University of Texas at Austin pursuing a B.S. in Computer Science, specializing in full stack development.
 
 ### Technical Skills
-- **Primary Languages:** Java, JavaScript, TypeScript, Python, HTML, CSS
+- **Primary Languages / Libraries:** Java, JavaScript, TypeScript, Python, HTML, CSS, React.js
 - **Frameworks:** Express.js, Flask
 - **Software:** AWS, Terraform, Postman, Gradle
 - **IDEs:** Visual Studio Code, IntelliJ
