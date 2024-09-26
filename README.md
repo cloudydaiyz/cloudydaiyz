@@ -8,7 +8,7 @@ I'm a previous student at the University of Texas at Austin pursuing a B.S. in C
 - **Primary Languages & Libraries:** TypeScript, Python, HTML, CSS, JavaScript, React.js, Java, C#
 - **Software:** Git, Terraform, Postman, MongoDB
 - **Cloud:** AWS, GCP
-- **Version Control Systems:** GitHub, GitLab
+- **VCS Platforms:** GitHub, GitLab
 - **IDEs:** Visual Studio Code, IntelliJ
 
 ### Look at: 👀
