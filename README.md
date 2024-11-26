@@ -4,11 +4,11 @@
 
 I'm a full stack developer.
 
-### Tech Stack: 📚
+### Tech Stack
 - **Frontend:** TypeScript, Python, Java
 - **Backend:** React.js, HTML, CSS, JavaScript
 - **Database:** MongoDB
 - **Software:** Git, Terraform, Postman
 
-### Also see: 👀
+### Also see
 - [ My Technical Workshops ](/WORKSHOPS.md)
