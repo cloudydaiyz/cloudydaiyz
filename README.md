@@ -5,11 +5,10 @@
 I'm a full stack developer.
 
 ### Tech Stack: 📚
-- **Primary Languages & Libraries:** TypeScript, Python, HTML, CSS, JavaScript, React.js, Java
-- **Software:** Git, Terraform, Postman, MongoDB
-- **Cloud:** AWS, GCP
-- **VCS Platforms:** GitHub, GitLab
-- **IDEs:** Visual Studio Code, IntelliJ
+- **Frontend:** TypeScript, Python, Java
+- **Backend:** React.js, HTML, CSS, JavaScript
+- **Database:** MongoDB
+- **Software:** Git, Terraform, Postman
 
 ### Also see: 👀
 - [ My Technical Workshops ](/WORKSHOPS.md)
