@@ -1,6 +1,6 @@
 ![TECHNICAL WORKSHOPS (1)](https://github.com/cloudydaiyz/cloudydaiyz/assets/91110018/9eb1a2c2-9a39-4e6e-b6c0-9704436bff02)
 
-# 🖥 Technical Workshops  
+# Technical Workshops  
 This repository contains a list of all the technical workshops that I've hosted.
 
 ## Unversity of Texas at Austin 🏫
