@@ -2,7 +2,7 @@
 
 ## Hello! 👋 
 
-I'm a previous student at the University of Texas at Austin pursuing a B.S. in Computer Science, specializing in full stack development.
+I'm a full stack developer.
 
 ### Tech Stack: 📚
 - **Primary Languages & Libraries:** TypeScript, Python, HTML, CSS, JavaScript, React.js, Java, C#
