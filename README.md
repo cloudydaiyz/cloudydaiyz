@@ -5,9 +5,9 @@
 I'm a full stack developer.
 
 ### Tech Stack
-- **Backend:** Node.js, Python, Java
+- **Backend:** Node.js
 - **Frontend:** React.js, HTML, CSS, JavaScript
-- **Database:** MongoDB
+- **Database:** MongoDB, Redis
 - **Software:** Git, Terraform, Postman
 
 ### Also see
