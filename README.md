@@ -9,7 +9,7 @@ I'm a full stack developer.
 - **Frontend:** React.js, HTML, CSS, JavaScript/TypeScript
 - **Database:** MongoDB, Redis
 - **Software:** Git, Terraform, Postman, Docker
-- **Cloud:**: AWS
+- **Cloud:** AWS
 
 ### Also see
 - [ My Technical Workshops ](/WORKSHOPS.md)
