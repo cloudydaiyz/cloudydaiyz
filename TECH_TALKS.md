@@ -1,3 +1,7 @@
+<a href="./README.md" target="_blank">
+<img src="https://img.shields.io/badge/-back_to_readme-black?style=for-the-badge" alt="tech talks" />
+</a>
+
 # Tech Talks 🖥
 
 I believe that spreading knowledge any way you can encourages a healthy future for software engineering. Tech Talks are a way for me to accomplish this by sharing information that, while may not be as promoted, is still highly valuable.
