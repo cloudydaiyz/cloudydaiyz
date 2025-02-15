@@ -15,7 +15,7 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash&logoColor=white)
 
 **Technologies**
 
@@ -30,19 +30,19 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 
 <div>
     <a href="https://github.com/cloudydaiyz" target="_blank">
-        <img src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt=github />
+        <img src="https://img.shields.io/badge/-gmail-black?style=plastic&logo=gmail&logoColor=white&color=ea4335" alt="gmail" />
     </a>
     <a href="https://github.com/cloudydaiyz" target="_blank">
-        <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" alt=github />
+        <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
     <a href="https://linkedin.com/in/kylan-duncan" target="_blank">
-        <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge" alt=linkedin />
+        <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge" alt="linkedin" />
     </a>
     <!-- <a href="https://twitter.com/username" target="_blank"> -->
-        <img src="https://img.shields.io/badge/coming_soon-twitter-blue?style=for-the-badge&label=Coming%20Soon&color=08a0e9" alt=twitter />
+        <img src="https://img.shields.io/badge/coming_soon-twitter-blue?style=for-the-badge&label=Coming%20Soon&color=08a0e9" alt="twitter" />
     <!-- </a>  -->
     <!-- <a href="https://instagram.com/username" target="_blank"> -->
-        <img src="https://img.shields.io/badge/coming_soon-instagram-blue?style=for-the-badge&label=Coming%20Soon&color=dd2a7b" alt=instagram />
+        <img src="https://img.shields.io/badge/coming_soon-instagram-blue?style=for-the-badge&label=Coming%20Soon&color=dd2a7b" alt="instagram" />
     <!-- </a>  -->
 </div>
 
