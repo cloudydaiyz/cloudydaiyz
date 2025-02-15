@@ -52,7 +52,7 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
     <a href="https://cloudydaiyz.com" target="_blank">
         <img src="https://img.shields.io/badge/-my_portfolio-blue?style=for-the-badge&color=black" alt="my portfolio" />
     </a>
-    <a href="./TECH_TALKS" target="_blank">
+    <a href="./TECH_TALKS.md" target="_blank">
         <img src="https://img.shields.io/badge/-Tech_Talks-blue?style=for-the-badge&color=green" alt="tech talks" />
     </a>
 </div>
