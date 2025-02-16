@@ -7,7 +7,7 @@
 
 # Tech Talks 🖥
 
-I believe that spreading knowledge any way you can encourages a healthy future for software engineering. Tech Talks are a way for me to accomplish this by sharing information that, while may not be as promoted, is still highly valuable.
+Spreading knowledge any way you can encourages growth and innovation. Tech Talks are a way for me to contribute by sharing valuable insights in software engineering.
 
 This repository contains a list of all the tech talks that I've led.
 
