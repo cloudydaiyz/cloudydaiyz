@@ -2,7 +2,7 @@
 	<img alt="Bikini Bottom" src="./assets/bikini-bottom.png" />
 </p>
 
-## Hello! 👋
+## Welcome 🏝️
 
 I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'm always looking for opportunities to improve my skillset by creating new applications and refining my craft.
 
