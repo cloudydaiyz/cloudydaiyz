@@ -30,19 +30,19 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 
 <div>
     <a href="mailto:kyland03.biz@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+        <img src="https://img.shields.io/badge/-gmail-ea4335?&logo=gmail&logoColor=white" alt="gmail" />
     </a>
     <a href="https://github.com/cloudydaiyz" target="_blank">
-        <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+        <img src="https://img.shields.io/badge/-github-black?&logo=github&logoColor=white" alt="github" />
     </a>
     <a href="https://linkedin.com/in/kylan-duncan" target="_blank">
-        <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge" alt="linkedin" />
+        <img src="https://img.shields.io/badge/-linkedin-blue?" alt="linkedin" />
     </a>
     <!-- <a href="https://twitter.com/username" target="_blank"> -->
-        <img src="https://img.shields.io/badge/coming_soon-twitter-08a0e9?style=for-the-badge&label=Coming%20Soon" alt="twitter" />
+<!--         <img src="https://img.shields.io/badge/coming_soon-twitter-08a0e9?&label=Coming%20Soon" alt="twitter" /> -->
     <!-- </a>  -->
     <!-- <a href="https://instagram.com/username" target="_blank"> -->
-        <img src="https://img.shields.io/badge/coming_soon-instagram-dd2a7b?style=for-the-badge&label=Coming%20Soon" alt="instagram" />
+<!--         <img src="https://img.shields.io/badge/coming_soon-instagram-dd2a7b?&label=Coming%20Soon" alt="instagram" /> -->
     <!-- </a>  -->
 </div>
 
@@ -50,9 +50,9 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 
 <div>
     <a href="https://cloudydaiyz.com" target="_blank">
-        <img src="https://img.shields.io/badge/-cloudydaiyz.com-black?style=for-the-badge" alt="my portfolio" />
+        <img src="https://img.shields.io/badge/-cloudydaiyz.com-black?" alt="my portfolio" />
     </a>
     <a href="./TECH_TALKS.md" target="_blank">
-        <img src="https://img.shields.io/badge/-Tech_Talks-green?style=for-the-badge" alt="tech talks" />
+        <img src="https://img.shields.io/badge/-tech_talks-green?" alt="tech talks" />
     </a>
 </div>
