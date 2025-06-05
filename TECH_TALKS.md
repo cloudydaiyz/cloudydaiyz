@@ -1,21 +1,19 @@
 <a href="https://github.com/cloudydaiyz" target="_blank">
-<img src="https://img.shields.io/badge/-back_to_profile-black?" alt="tech talks" />
+<img src="https://img.shields.io/badge/-back_to_profile-black?" alt="back to profile" />
 </a>
 <a href="./README.md" target="_blank">
-<img src="https://img.shields.io/badge/-back_to_readme-black?" alt="tech talks" />
+<img src="https://img.shields.io/badge/-back_to_readme-black?" alt="back to readme" />
 </a>
 
 # Tech Talks 🖥
 
 Spreading knowledge any way you can encourages growth and innovation. Tech Talks are a way for me to contribute by sharing valuable insights in software engineering.
 
-This repository contains a list of all the tech talks that I've led.
+You can view the talks that I've led below.
 
 <!-- For sponsored workshops, use: ![Sponsored](https://img.shields.io/badge/-Sponsored-green?style=plastic) -->
 
-## Technical Workshops
-
-Cloud Computing
+**Cloud Computing**
 
 -   Learn an Overview of AWS Cloud and the cloud console
 -   Presented on 3/29/24 at the University of Texas at Austin 🏫
