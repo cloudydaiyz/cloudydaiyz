@@ -14,7 +14,6 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash&logoColor=white)
 
 **Technologies**
@@ -22,9 +21,11 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices)
 
 ## Connect With Me 🌐
 
