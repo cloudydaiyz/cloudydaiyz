@@ -56,4 +56,8 @@ I'm Kylan Duncan, a full stack engineer. I specialize in web development, and I'
     <a href="./TECH_TALKS.md" target="_blank">
         <img src="https://img.shields.io/badge/-tech_talks-green?" alt="tech talks" />
     </a>
+	<a href="https://datatracker.ietf.org/doc/html/rfc2321" target="_blank">
+        <img src="https://img.shields.io/badge/-RFC-2321-blue?" alt="rfc 2321" />
+    </a>
+	
 </div>
